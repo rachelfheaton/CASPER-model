@@ -13,7 +13,7 @@
 
 This model of visual search was first developed and written by John E Hummel in 2018: https://github.com/jehummel/HummelSearchModel2018
 
-This model extends and replaces an earlier version of the model found at https://github.com/rachelfheaton/search-model which was supported by the National Science Foundation under Grant No. BCS1921735.
+This model was written and developed by Rachel F Heaton and extends and replaces an earlier version of the model found at https://github.com/rachelfheaton/search-model which was supported by the National Science Foundation under Grant No. BCS1921735.
 
 # If this work is used in academic research, please cite:
 Heaton, R.F. (2023) A computational model of serial and parallel processing in visual search.
