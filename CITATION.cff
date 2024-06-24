@@ -18,8 +18,7 @@ preferred-citation:
     given-names: "Rachel"
     orcid: "https://orcid.org/0000-0002-7121-7691"
   doi: "https://arxiv.org/abs/2310.10061"
-  journal: "arXiv preprint"
-  month: arXiv:2310.10061
+  journal: "arXiv preprint arXiv:2310.10061"
   title: "A computational model of serial and parallel processing in visual search"
   year: 2023
 
