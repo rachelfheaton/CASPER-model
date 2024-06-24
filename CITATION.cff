@@ -7,8 +7,8 @@ authors:
 - family-names: "Hummel"
   given-names: "John"
 title: "CASPER (Concurrent Attention: Serial and Parallel Evaluation with Relations)"
-version: 1.0.1
-doi: "https://zenodo.org/doi/10.5281/zenodo.10005691"
+version: 1.0.3
+doi: "10.5281/zenodo.10005691"
 date-released: 2024-06-20
 url: "https://github.com/rachelfheaton/CASPER-model"
 preferred-citation:
