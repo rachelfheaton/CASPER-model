@@ -11,14 +11,4 @@ version: 1.0.1
 doi: "https://zenodo.org/doi/10.5281/zenodo.10005691"
 date-released: 2024-06-20
 url: "https://github.com/rachelfheaton/CASPER-model"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Heaton"
-    given-names: "Rachel"
-    orcid: "https://orcid.org/0000-0002-7121-7691"
-  doi: "https://arxiv.org/abs/2310.10061"
-  journal: "arXiv preprint"
-  month: arXiv:2310.10061
-  title: "A computational model of serial and parallel processing in visual search"
-  year: 2023
+
