@@ -21,7 +21,7 @@ https://arxiv.org/abs/2310.10061
 
 and the persistent DOI in the for this repository
 
-<a href="https://zenodo.org/doi/10.5281/zenodo.10005691"><img src="https://zenodo.org/badge/686478617.svg" alt="DOI"></a>
+<a href="https://zenodo.org/doi/10.5281/zenodo.10005691"><img src="https://zenodo.org/badge/10005691.svg" alt="DOI"></a>
 
 This code can be found at https://github.com/rachelfheaton/CASPER-model
 
